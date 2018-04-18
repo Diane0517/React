@@ -12,3 +12,7 @@ https://github.com/lukehoban/es6features(es6　features学习资料)
 
 
 https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf(How JavaScript works)
+
+
+
+https://developers.google.com/closure/templates/docs/commands#call(template.soy 详细介绍了soy模板的语法规则)

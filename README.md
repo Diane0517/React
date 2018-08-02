@@ -20,3 +20,6 @@ https://developers.google.com/closure/templates/docs/commands#call(template.soy 
 
 https://www.helloweba.net/javascript/449.html(fullcalendar文档);
 https://fullcalendar.io(官方文档);
+
+
+http://digcss.com/react-redux/（react+redux 在具体项目中，如何搭建起来）

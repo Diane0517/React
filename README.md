@@ -23,3 +23,5 @@ https://fullcalendar.io(官方文档);
 
 
 http://digcss.com/react-redux/（react+redux 在具体项目中，如何搭建起来）
+
+https://react-select.com/home 项目中用到的react的select组件
